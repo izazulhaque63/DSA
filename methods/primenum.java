@@ -1,5 +1,5 @@
 public static void main(String[] args) {
-    System.out.println(prime(16));
+    System.out.println(prime(15));
 }
 public static boolean prime(int n) {
     if (n <= 1) {
